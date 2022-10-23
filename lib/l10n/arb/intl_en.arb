@@ -1,0 +1,68 @@
+{
+    "@@locale": "en",
+
+    "back_button": "Back",
+    "clear_button": "Clear",
+    "filter_button": "Filter",
+
+    "splash_screen_title_first": "Discover the Universe of",
+    "splash_screen_title_second": "Rick & Morty",
+
+    "characters_page_title": "Characters list",
+    "characters_page_characters_count": "Characters : {count}",
+    "@characters_page_characters_count": {
+      "placeholders": {
+        "count": {
+          "type": "int"
+        }
+      }
+    },
+    "characters_page_selected_filters": "Filters : {filters}",
+    "@characters_page_selected_filters": {
+      "placeholders": {
+        "filters": {
+          "type": "String"
+        }
+      }
+    },
+
+    "character_page_name": "Name : ",
+    "character_page_status": "Status : ",
+    "character_page_specie": "Species : ",
+    "character_page_type": "Type : ",
+    "character_page_gender": "Gender : ",
+    "character_page_date": "Created : ",
+    "character_page_episode_list": "Episodes list ({count})",
+    "@character_page_episode_list": {
+      "placeholders": {
+        "count": {
+          "type": "int"
+        }
+      }
+    },
+
+    "filter_menu_title": "Filter characters",
+    "filter_menu_status": "Filter on status :",
+    "filter_menu_gender": "Filter on gender :",
+
+    "episodes_menu_title": "{name} episodes :",
+    "@episodes_menu_title": {
+      "placeholders": {
+        "name": {
+          "type": "String"
+        }
+      }
+    },
+    "episodes_menu_episode_name": "{episode} - {name}",
+    "@episodes_menu_episode_name": {
+      "placeholders": {
+        "episode": {
+          "type": "String"
+        },
+        "name": {
+            "type": "String"
+        }
+      }
+    }
+
+}

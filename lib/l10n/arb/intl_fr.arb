@@ -1,0 +1,68 @@
+{
+    "@@locale": "fr",
+
+    "back_button": "Retour",
+    "clear_button": "Clear",
+    "filter_button": "Filtrer",
+
+    "splash_screen_title_first": "Découvrez l'Univers de",
+    "splash_screen_title_second": "Rick & Morty",
+
+    "characters_page_title": "Liste des personnages",
+    "characters_page_characters_count": "Personnages : {count}",
+    "@characters_page_characters_count": {
+      "placeholders": {
+        "count": {
+          "type": "int"
+        }
+      }
+    },
+    "characters_page_selected_filters": "Filtres : {filters}",
+    "@characters_page_selected_filters": {
+      "placeholders": {
+        "filters": {
+          "type": "String"
+        }
+      }
+    },
+
+    "character_page_name": "Nom : ",
+    "character_page_status": "Statut : ",
+    "character_page_specie": "Èspece : ",
+    "character_page_type": "Type : ",
+    "character_page_gender": "Genre : ",
+    "character_page_date": "Créé le : ",
+    "character_page_episode_list": "Liste des épisodes ({count})",
+    "@character_page_episode_list": {
+      "placeholders": {
+        "count": {
+          "type": "int"
+        }
+      }
+    },
+
+    "filter_menu_title": "Filtrer les personnages",
+    "filter_menu_status": "Filtrer sur le statut :",
+    "filter_menu_gender": "Filtrer sur le genre :",
+
+    "episodes_menu_title": "Liste des épisodes de {name} :",
+    "@episodes_menu_title": {
+      "placeholders": {
+        "name": {
+          "type": "String"
+        }
+      }
+    },
+    "episodes_menu_episode_name": "{episode} - {name}",
+    "@episodes_menu_episode_name": {
+      "placeholders": {
+        "episode": {
+          "type": "String"
+        },
+        "name": {
+            "type": "String"
+        }
+      }
+    }
+
+}
